@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/x6MxwhX/Clothing.png",
+      "title": "Clean Water for Children",
+      "category": "Health",
+      "color_card_bg": "#d9e5ff",
+      "color_text": " #1b64ff",
+      "color_button": "#aec8ff",
+      "description": "Help provide clean and safe drinking water for children in need.",
+      "price": 250
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/4mmc850/Education.png",
+      "title": "Good Education",
+      "category": "Education",
+      "color_card_bg":" #ffe3e4",
+      "color_text": "#ff585d",
+      "color_button":" #ffc3c5",
+      "description": "Support educational initiatives to provide quality education for all.",
+      "price": 500
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/gVTyjKX/Food.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "color_card_bg": "#ebf6e2",
+      "color_text": " #87c953",
+      "color_button": "#d4ecc1",
+      "description": "Collect and distribute used clothing to those in need.",
+      "price": 300
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/jTsm0Hv/Health.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "color_card_bg": "#feeae3",
+      "color_text": " #f87147",
+      "color_button": "#fdd2c4",
+      "description": "Contribute to providing better food access to communities.",
+      "price": 200
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/rs9q967/Rectangle-4284.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "color_card_bg": "#feeae3",
+      "color_text": " #f87147",
+      "color_button": "#fdd2c4",
+      "description": "Join the cause to ensure better food for everyone.",
+      "price": 400
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/m435KtV/Rectangle-4287.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "color_card_bg": "#ebf6e2",
+      "color_text": " #87c953",
+      "color_button": "#d4ecc1",
+      "description": "Support a used clothing drive to help those in need.",
+      "price": 150
+    },
+    {
+      "id": 7,
+      "img": "https://i.ibb.co/KV9j8T0/Rectangle-4287-1.png",
+      "title": "Good Education",
+      "category": "Education",
+      "color_card_bg":" #ffe3e4",
+      "color_text": "#ff585d",
+      "color_button":" #ffc3c5",
+      "description": "Contribute to providing quality education for all.",
+      "price": 350
+    },
+    {
+      "id": 8,
+      "img": "https://i.ibb.co/x5kHkVB/Rectangle-4287-2.png",
+      "title": "Clean Water for Children",
+      "category": "Health",
+      "color_card_bg": "#d9e5ff",
+      "color_text": " #1b64ff",
+      "color_button": "#aec8ff",
+      "description": "Help provide clean water to children in need of health.",
+      "price": 250
+    },
+    {
+      "id": 9,
+      "img": "https://i.ibb.co/DbkXLqZ/Health.png",
+      "title": "Clean Water for Children",
+      "category": "Health",
+      "color_card_bg": "#d9e5ff",
+      "color_text": " #1b64ff",
+      "color_button": "#aec8ff",
+      "description": "Support clean water projects for the health of children.",
+      "price": 300
+    },
+    {
+      "id": 10,
+      "img": "https://i.ibb.co/QKwBhLj/Education.png",
+      "title": "Good Education",
+      "category": "Education",
+      "color_card_bg":" #ffe3e4",
+      "color_text": "#ff585d",
+      "color_button":" #ffc3c5",
+      "description": "Join the cause of providing good education for all.",
+      "price": 200
+    },
+    {
+      "id": 11,
+      "img": "https://i.ibb.co/bLLt2wP/Rectangle-4288.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "color_card_bg": "#ebf6e2",
+      "color_text": " #87c953",
+      "color_button": "#d4ecc1",
+      "description": "Support a drive to provide used clothing for those in need.",
+      "price": 350
+    },
+    {
+      "id": 12,
+      "img": "https://i.ibb.co/898sX2S/Food.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "color_card_bg": "#feeae3",
+      "color_text": " #f87147",
+      "color_button": "#fdd2c4",
+      "description": "Contribute to providing better food access to communities.",
+      "price": 400
+    }
+  ]
+  
